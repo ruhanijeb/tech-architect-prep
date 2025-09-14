@@ -1,1 +1,6 @@
-.sqlite,.db
+*.sqlite
+*.db
+CopilotIndices/
+FileContentIndex/
+*.wsuo
+
