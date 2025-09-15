@@ -3,4 +3,11 @@
 CopilotIndices/
 FileContentIndex/
 *.wsuo
+*.DocumentLayout
+*.bin
+*.json
+*.cache
+obj
+bin
+.vs
 
